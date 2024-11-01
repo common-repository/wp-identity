@@ -1,0 +1,16 @@
+form.login #username, #user_login {
+  background-image: url('https://www.ufp.com/identity.png');
+  background-repeat:no-repeat;
+  background-position: 4px center;
+  text-indent: 15px;
+}
+
+#user-text {
+  background-image: url('https://www.ufp.com/identity.png');
+  background-repeat:no-repeat;
+  background-position: 4px center;
+  text-indent: 20px;
+  font-size: 16px;
+  margin-bottom: 10px;
+  display: inline-block;
+}
